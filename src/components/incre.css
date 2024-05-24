@@ -1,0 +1,11 @@
+.Btn{
+    margin-left: 74%;
+    padding: 2px;
+    height: 60px;
+    width: 110px;
+    background-color:yellowgreen;
+    font-weight: bold;
+    font-size: large;
+  border: none;
+     border-radius: 10px;
+}

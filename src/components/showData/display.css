@@ -1,0 +1,29 @@
+.ss{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+.kk{
+    color: aliceblue;
+    height: 30px;
+    width: 70px;
+    border:white;
+  
+
+}  
+.bt{
+    background-color:yellowgreen;
+    border: none;
+}
+.bb{
+    border: none;
+
+}
+.delicon{
+    color: red;
+    border: none;
+    height: 30px;
+    width: 70px;
+}
+
+

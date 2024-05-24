@@ -1,0 +1,27 @@
+.cont {
+    display: flex;
+    flex-direction: column; /* Ensure children stack vertically */
+  }
+.cont{
+    height: 40vh;
+    width: 75vh;
+    margin: 10%;
+}
+
+.btnform {
+    display: flex;
+    flex-direction: row; /* Arrange buttons horizontally */
+    /* justify-content: space-between; Spread buttons evenly */
+  }
+  .but1 {
+    background-color:yellowgreen;
+    margin-left: 1px;
+     padding: 20px;
+    /* Add your button styles here */
+     /* Add some margin between buttons */
+  }
+  .but2{
+    padding: 18px;
+    margin-right: 5px;
+    background-color:yellowgreen;
+  }
